@@ -1,0 +1,21 @@
+{
+  "name": "backendforvenueproposalvoting",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "tezeract",
+  "license": "ISC",
+  "dependencies": {
+    "@openapitools/openapi-generator-cli": "^2.3.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "openapi-doc": "^4.3.2",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "supertest": "^6.1.3",
+    "jest": "^27.0.6"
+  }
+}

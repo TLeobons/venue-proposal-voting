@@ -1,0 +1,12 @@
+{
+  "name": "venue-proposal-voting",
+  "author": "Thiago Leobons",
+  "version": "1.0.0",
+  "description": "test task for interviewing process.",
+  "main": "index.js",
+  "license": "ISC",
+  "scripts": {
+    "front": "cd frontend && npm start",
+    "back": "cd backend && nodemon server.js"
+  }
+}
